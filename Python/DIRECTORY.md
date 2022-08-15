@@ -304,14 +304,14 @@
     * [Test Send File](file_transfer/tests/test_send_file.py)
 
 ## Financial
-  * [Equated Monthly Installments](fractals/financial/equated_monthly_installments.py)
-  * [Interest](fractals/financial/interest.py)
+  * [Equated Monthly Installments](fuzzy_logic/fractals/financial/equated_monthly_installments.py)
+  * [Interest](fuzzy_logic/fractals/financial/interest.py)
 
 ## Fractals
-  * [Julia Sets](fractals/julia_sets.py)
-  * [Koch Snowflake](fractals/koch_snowflake.py)
-  * [Mandelbrot](fractals/mandelbrot.py)
-  * [Sierpinski Triangle](fractals/sierpinski_triangle.py)
+  * [Julia Sets](fuzzy_logic/fractals/julia_sets.py)
+  * [Koch Snowflake](fuzzy_logic/fractals/koch_snowflake.py)
+  * [Mandelbrot](fuzzy_logic/fractals/mandelbrot.py)
+  * [Sierpinski Triangle](fuzzy_logic/fractals/sierpinski_triangle.py)
 
 ## Fuzzy Logic
   * [Fuzzy Operations](fuzzy_logic/fuzzy_operations.py)
