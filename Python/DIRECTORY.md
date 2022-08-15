@@ -1,15 +1,15 @@
 
 ## Arithmetic Analysis
-  * [Bisection](audio_filters/arithmetic_analysis/bisection.py)
-  * [Gaussian Elimination](audio_filters/arithmetic_analysis/gaussian_elimination.py)
-  * [In Static Equilibrium](audio_filters/arithmetic_analysis/in_static_equilibrium.py)
-  * [Intersection](audio_filters/arithmetic_analysis/intersection.py)
-  * [Jacobi Iteration Method](audio_filters/arithmetic_analysis/jacobi_iteration_method.py)
-  * [Lu Decomposition](audio_filters/arithmetic_analysis/lu_decomposition.py)
-  * [Newton Forward Interpolation](audio_filters/arithmetic_analysis/newton_forward_interpolation.py)
-  * [Newton Method](audio_filters/arithmetic_analysis/newton_method.py)
-  * [Newton Raphson](audio_filters/arithmetic_analysis/newton_raphson.py)
-  * [Secant Method](audio_filters/arithmetic_analysis/secant_method.py)
+  * [Bisection](arithmetic_analysis/bisection.py)
+  * [Gaussian Elimination](arithmetic_analysis/gaussian_elimination.py)
+  * [In Static Equilibrium](arithmetic_analysis/in_static_equilibrium.py)
+  * [Intersection](arithmetic_analysis/intersection.py)
+  * [Jacobi Iteration Method](arithmetic_analysis/jacobi_iteration_method.py)
+  * [Lu Decomposition](arithmetic_analysis/lu_decomposition.py)
+  * [Newton Forward Interpolation](arithmetic_analysis/newton_forward_interpolation.py)
+  * [Newton Method](arithmetic_analysis/newton_method.py)
+  * [Newton Raphson](arithmetic_analysis/newton_raphson.py)
+  * [Secant Method](arithmetic_analysis/secant_method.py)
 
 ## Audio Filters
   * [Butterworth Filter](audio_filters/butterworth_filter.py)
